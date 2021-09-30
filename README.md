@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Palak Jain</h1>
 <h3 align="center">A passionate fullstack Web Developer from India</h3>
 
-- 🌱 I’m currently learning **Typescript,GraphQL, Google Cloud**
+- 🌱 I’m currently learning **GraphQL, Google Cloud**
 
 - 💬 Ask me about **React**
 
