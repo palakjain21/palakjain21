@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Palak Jain</h1>
 <h3 align="center">A passionate fullstack Web Developer from India</h3>
 
-- 🌱 I’m currently learning **GraphQL, Google Cloud**
+- 🌱 I’m currently learning **Google Cloud**
 
-- 💬 Ask me about **React**
-
+- 💬 Ask me about **MERN/PERN stack**
 - 📫 How to reach me **21palak2001@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
